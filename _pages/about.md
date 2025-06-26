@@ -3,8 +3,7 @@ CT/MRI Image Reconstruction, Inverse Problems in Imaging, Diffusion Models, Data
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.06*: &nbsp;🎉🎉 Successfully completed a Master of Science degree at Sun Yat-sen University and was awarded the title of 'Outstanding Graduate' of Sun Yat-sen University.
 
 # 📝 Publications 
 
